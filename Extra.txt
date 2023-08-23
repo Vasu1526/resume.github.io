@@ -1,0 +1,36 @@
+<header id="header" class="d-flex flex-column justify-content-center d-none d-lg-block">
+        <nav class="navbar nav-menu my-5">
+            <ul class="list-unstyled">
+                <li class="my-3"><a href="" class="nav-link"><i class="text-bg-primary bx bx-home head-icon"></i></a></li>
+                <li class="my-3"><a href="" class="nav-link"><i class="text-bg-primary bx bx-user head-icon"></i></a></li>
+                <li class="my-3"><a href="" class="nav-link"><i class="text-bg-primary bx bx-file-blank head-icon"></i></a></li>
+                <li class="my-3"><a href="" class="nav-link"><i class="text-bg-primary bx bx-book-content head-icon"></i></a></li>
+                <li class="my-3"><a href="" class="nav-link"><i class="text-bg-primary bx bx-server head-icon"></i></a></li>
+                <li class="my-3"><a href="" class="nav-link"><iclass="text-bg-primary bx bx-envelope head-icon"></iclass=></a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+
+
+
+
+
+
+
+    
+    <i class="bi mobile-nav-toggle d-lg-none bi-list"></i>
+    <header id="header" class="d-flex flex-column justify-content-center d-none d-lg-block">
+        <nav class="navbar nav-menu my-5">
+            <ul class="list-unstyled">
+                <li class="my-3"><a href="" class="nav-link"><i class="text-bg-primary bx bx-home head-icon"></i></a></li>
+                <li class="my-3"><a href="" class="nav-link"><i class="text-bg-primary bx bx-user head-icon"></i></a></li>
+                <li class="my-3"><a href="" class="nav-link"><i class="text-bg-primary bx bx-file-blank head-icon"></i></a></li>
+                <li class="my-3"><a href="" class="nav-link"><i class="text-bg-primary bx bx-book-content head-icon"></i></a></li>
+                <li class="my-3"><a href="" class="nav-link"><i class="text-bg-primary bx bx-server head-icon"></i></a></li>
+                <li class="my-3"><a href="" class="nav-link"><iclass="text-bg-primary bx bx-envelope head-icon"></iclass=></a></li>
+            </ul>
+        </nav>
+    </header>
+

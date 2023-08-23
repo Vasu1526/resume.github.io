@@ -1,0 +1,465 @@
+<!-- <section class="main-product">
+    <div class="container">
+      <div class="headings text-center">
+        <h5 class="subtitle">Choose your Coffee</h5>
+        <h2 class="title">Recent Products</h2>
+        <div class="tabs row justify-center">
+          <li><a href="#">Coffee</a></li>
+          <li><a href="#">Green Coffee</a></li>
+          <li><a href="#">Roasted Coffee</a></li>
+          <li><a href="#">Italian</a></li>
+        </div>
+      </div>
+      <div class="products">
+        <div class="row">
+          <div class="w-3">
+            <div class="card">
+              <div class="image d-block">
+                <img src="asset/images/coffee_item1.jpg" class="d-block" alt="" width="100%" />
+              </div>
+              <div class="content text-center">
+                <h5>MyCoffeeShop Cup</h5>
+                <p>
+                  Duis et aliquam orci. Vivamus augue<br />
+                  quam, ...
+                </p>
+                <span style="
+                    font-size: 20px;
+                    text-decoration: line-through;
+                    margin-right: 5px;
+                  ">$23.00</span><span style="
+                    color: var(--light-brown);
+                    font-size: 24px;
+                    font-weight: 800;
+                  ">$19.00</span>
+                <div class="btn">
+                  <button>Read More</button>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <div class="w-3">
+            <div class="card">
+              <div class="image">
+                <img src="asset/images/coffee_item2.jpg" alt="" width="100%" />
+              </div>
+              <div class="content text-center">
+                <h5>Ephiopian Aroma</h5>
+                <p>
+                  Duis et aliquam orci. Vivamus augue<br />
+                  quam, ...
+                </p>
+                <span style="
+                 color: var(--light-brown);
+                  font-size: 24px;
+                  font-weight: 800;
+                ">$23.00 - </span><span style="
+                  color: var(--light-brown);
+                  font-size: 24px;
+                  font-weight: 800;
+                ">$19.00</span>
+                <div class="btn">
+                  <button>Read More</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="w-3">
+            <div class="card">
+              <div class="image">
+                <img src="asset/images/coffee_item3.jpg" alt="" width="100%" />
+              </div>
+              <div class="content text-center">
+                <h5>Green Africana</h5>
+                <p>
+                  Duis et aliquam orci. Vivamus augue<br />
+                  quam, ...
+                </p>
+                <span style="
+                  color: var(--light-brown);
+                  font-size: 24px;
+                  font-weight: 800;
+                ">$19.00</span>
+                <div class="btn">
+                  <button>Read More</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="w-3">
+            <div class="card">
+              <div class="image">
+                <img src="asset/images/coffee_item4.jpg" alt="" width="100%" />
+              </div>
+              <div class="content text-center">
+                <h5>American Black Coffee</h5>
+                <p>
+                  Duis et aliquam orci. Vivamus augue<br />
+                  quam, ...
+                </p>
+                <span style="
+                  color: var(--light-brown);
+                  font-size: 24px;
+                  font-weight: 800;
+                ">$19.00</span>
+                <div class="btn">
+                  <button>Read More</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="btn1 text-center">
+          <button>View all Products</button>
+        </div>
+      </div>
+    </div>
+  </section> -->
+
+  <!-- <section class="main-sales">
+    <div class="container">
+      <div class="row">
+        <div class="w-6">
+          <h3 class="header">Sales And Delivery Point</h3>
+          <p class="desc">
+            Sed sagittis sodales lobortis. Curabitur in eleifend turpis, id
+            vehicula odio. Donec pulvinartellus eget magna aliquet ultricies.
+            Praesent gravida hendreritex, nec eleifend semconvallis vitae.
+          </p>
+          <h4 class="sub-header">Where buy our coffee:</h4>
+          <div class="cities">
+            <div class="row">
+              <ul class="w-4">
+                <li><a href="">Canada</a></li>
+                <li><a href="">USA</a></li>
+                <li><a href="">Mexico</a></li>
+              </ul>
+              <ul class="w-4">
+                <li><a href="">Canada</a></li>
+                <li><a href="">USA</a></li>
+                <li><a href="">Mexico</a></li>
+              </ul>
+              <ul class="w-4">
+                <li><a href="">Canada</a></li>
+                <li><a href="">USA</a></li>
+                <li><a href="">Mexico</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="btn">
+            <button>View All Points</button>
+          </div>
+        </div>
+        <div class="w-6">
+          <img src="asset/images/map.png" alt="" width="100%" data-aos="zoom-in" data-aos-duration="1000" />
+        </div>
+      </div>
+    </div>
+  </section> -->
+
+  <!-- <section class="main-customer">
+    <div class="container">
+      <div class="row">
+        <div class="w-6" data-aos="zoom-in" data-aos-duration="1000">
+          <div class="row">
+            <div class=" headings w-6">
+              <h4>More Than</h4>
+              <h2>5400</h2>
+              <h3>Customers</h3>
+              <h3>Trust us</h3>
+            </div>
+
+            <div class="w-6">
+              <img src="asset/images/coffee-cup-1.png" alt="" width="100%">
+            </div>
+          </div>
+        </div>
+        <div class="w-6 content">
+          <h2>Become our dealer</h2>
+          <p>Curabitur sollicitudin ultrices tortor, eget pulvinar risus cursus eu. Vivamus sit amet odio massa. Vivamus
+            dapibus elementum tellus nec fermentum. Sed blandit condimentum molestie. In hac habitasse platea dictumst.
+            Etiam fringilla a elit at ornare.</p>
+          <div class="btn">
+            <button>Become a dealer</button>
+            <button>Contact us</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section> -->
+
+  <!-- <section class="testimonials">
+    <h4 class="text-center">Our clients say</h4>
+    <h2 class="text-center">Testimonials</h2>
+    <div class="container">
+      <div class="testi-title">
+        <div class="p-img text-center">
+          <img src="https://www.freeiconspng.com/uploads/png-file-png-file-png-file-png-file-png-file-27.png"
+            alt="Profile Icon Png" width="100%" />
+        </div>
+        <h4 class="text-center">Anastasia Stone</h4>
+        <h5 class="text-center">administrator</h5>
+        <p class="text-center">
+          Nullam orci dui, dictum et magna sollicitudin, tempor blandit erat.
+          Maecenas suscipit tellus sit amet augue placerat fringilla a id
+          lacus. Fusce tincidunt in leo lacinia condimentum. Maecenas suscipit
+          tellus sit amet augue placerat fringilla a id lacus. Fusce tincidunt
+          in leo lacinia condimentum.
+        </p>
+        <ul class="row justify-center">
+          <li><i class="fa-solid fa-star" style="color: #ffc107"></i></li>
+          <li><i class="fa-solid fa-star" style="color: #ffc107"></i></li>
+          <li><i class="fa-solid fa-star" style="color: #ffc107"></i></li>
+          <li><i class="fa-solid fa-star" style="color: #ffc107"></i></li>
+          <li>
+            <i class="fa-solid fa-star-half-stroke" style="color: #ffc107"></i>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section> -->
+
+  <!-- <section class="main-brands">
+    <div class="container align-item-center">
+      <div class="row">
+        <div class="brand w-2">
+          <img src="asset/images/brand1.png" alt="" data-aos="zoom-in" data-aos-delay="">
+        </div>
+        <div class="brand w-2">
+          <img src="asset/images/brand2.png" alt="" data-aos="zoom-in" data-aos-delay="200">
+        </div>
+        <div class="brand w-2">
+          <img src="asset/images/brand3.png" alt="" data-aos="zoom-in" data-aos-delay="400">
+        </div>
+        <div class="brand w-2">
+          <img src="asset/images/brand4.png" alt="" data-aos="zoom-in" data-aos-delay="600">
+        </div>
+        <div class="brand w-2">
+          <img src="asset/images/brand5.png" alt="" data-aos="zoom-in" data-aos-delay="800">
+        </div>
+        <div class="brand w-2">
+          <img src="asset/images/brand6.png" alt="" data-aos="zoom-in" data-aos-delay="1000">
+        </div>
+      </div>
+    </div>
+  </section> -->
+
+  <!-- <section class="main-discount">
+    <div class="container ">
+      <div class="row align-item-center text-center justify-center">
+        <div class="w-6">
+          <div class="content ">
+            <h5 class="">Special offer</h5>
+            <h3 class="">Get your Discount</h3>
+            <div class="image"><img src="asset/images/discount-card.png" alt="" data-aos="flip-up"></div>
+            <p>Morbi malesuada dui in iaculis lacinia. Duis laoreet ut liberonec<br> tincidunt. Maecenas a eros finibus,
+              condimentum tortoreget, auctor<br> nunc. Aenean a efficitur leo.</p>
+            <div class="btn"><button>Get now</button></div>
+          </div>
+        </div>
+        <div class="w-6 bck-image">
+          <div class="back-image"><img src="asset/images/discount_back.png" width="100%" alt=""></div>
+        </div>
+      </div>
+    </div>
+  </section> -->
+
+  <!-- <section class="main-blog">
+    <div class="container">
+      <div class="headings text-center">
+        <div class="title">
+          <span>Our Blog</span>
+        </div>
+        <div class="sub-title">
+          <h3>Recent Post</h3>
+        </div>
+      </div>
+      <div class="blog ">
+        <div class="row ">
+          <div class="w-4">
+            <div class="blog-card" data-aos="fade-down" data-aos-delay="">
+              <div class="card">
+                <div class="b-img">
+                  <img src="asset/images/blog1.jpg" alt="">
+                </div>
+                <div class="b-desc">
+                  <h4 class="title d-inline">History of coffee</h4>
+                  <p>Integer maximus accumsan nunc, sit amet tempor lectus facilisis eu. Cras vel elit felis. Vestibulum
+                    convallis ipsum id aliquam varius. Etiam nec laoreet ...</p>
+                  <div class="card-foot">
+                    <div class="up-date d-inline">
+                      <div class="date d-inline">
+                        <span>25</span>
+                      </div>
+                      <div class="month d-inline">
+                        <ul class=" d-inline">
+                          <li>September</li>
+                          <li>2017</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="b-view d-inline">
+                      <span><i class="fa-solid fa-eye"></i>1,988</span>
+                      <span><i class="fa-solid fa-comment-dots"></i>0</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="w-4">
+            <div class="blog-card" data-aos="fade-down" data-aos-delay="400">
+              <div class="card ">
+                <div class="b-img">
+                  <img src="asset/images/blog2.jpg" alt="">
+                </div>
+                <div class="b-desc">
+                  <h4 class="title">About Americano coffee</h4>
+                  <p>Vivamus tristique ligula quis orci malesuada tincidunt. Praesent magna purus, pharetra eu eleifend
+                    non,
+                    euismod vitae leo. Interdum et malesuada fames ac ante ...</p>
+                  <div class="card-foot">
+                    <div class="up-date d-inline">
+                      <div class="date d-inline">
+                        <span>25</span>
+                      </div>
+                      <div class="month d-inline">
+                        <ul class=" d-inline">
+                          <li>September</li>
+                          <li>2017</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="b-view d-inline">
+                      <span><i class="fa-solid fa-eye"></i>1,988</span>
+                      <span><i class="fa-solid fa-comment-dots"></i>0</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="w-4">
+            <div class="blog-card" data-aos="fade-down" data-aos-delay="800">
+              <div class="card ">
+                <div class="b-img">
+                  <img src="asset/images/blog3.jpg" alt="">
+                </div>
+                <div class="b-desc">
+                  <h4 class="title">Coffee roasts guide</h4>
+                  <p>In efficitur, leo non commodo lacinia, odio metus sodales purus, sed consequat lectus mi in purus.
+                    Vivamus vitae metus et nisl egestas sollicitudin. Quisque ...</p>
+                  <div class="card-foot">
+                    <div class="up-date d-inline">
+                      <div class="date d-inline">
+                        <span>25</span>
+                      </div>
+                      <div class="month d-inline">
+                        <ul class=" d-inline">
+                          <li>September</li>
+                          <li>2017</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="b-view d-inline">
+                      <span><i class="fa-solid fa-eye"></i>1,988</span>
+                      <span><i class="fa-solid fa-comment-dots"></i>0</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="btn text-center">
+          <button>Read more</button>
+        </div>
+      </div>
+    </div>
+  </section> -->
+
+
+
+<footer>
+  <div class="main-subs">
+    <div class="container">
+      <div class="row align-item-center justify-center">
+        <div class="w-4">
+          <div class="subs-desc">
+            <span class="title">Subscribe</span>
+            <h6 class="sub-title">Weekly newsletter</h6>
+          </div>
+        </div>
+        <div class="w-5">
+          <div class="subs">
+            <input type="text" name="" id="" placeholder="Your email address">
+            <button>Subscribe</button>
+          </div>
+        </div>
+        <div class="w-3 soc-acc">
+          <div class="row social-acc">
+            <li><i class="fa-brands fa-twitter"></i></li>
+            <li><i class="fa-brands fa-facebook-f"></i></li>
+            <li><i class="fa-brands fa-instagram"></i></li>
+            <li><i class="fa-brands fa-google-plus-g"></i></li>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <section class="main-footer">
+      <div class="container p-relative">
+        <div class="footer">
+          <div class="row">
+            <div class=" foot-desc w-4">
+              <div class="img">
+                <img src="asset/images/logo_white-7.png" alt="">
+              </div>
+              <div class="desc">
+                <p>Pellentesque congue non augue vitae pellentesque. Morbi sollicitudin eleifend rhoncus. Mauris vel
+                  nisl a
+                  massa viverra sollicitudin semper a diam.</p>
+              </div>
+              <div class="btn">
+                <button>Purchase Theme</button>
+              </div>
+            </div>
+
+            <div class="explor w-4">
+              <h2>EXPLORE</h2>
+              <div class="links">
+                <div class="row">
+                  <ul class="w-6">
+                    <li><a href="index.html"><i class="fa-solid fa-angle-right"></i>Home</a></li>
+                    <li><a href="contact.html"><i class="fa-solid fa-angle-right"></i>Contact Us</a></li>
+                    <li><a href="#"><i class="fa-solid fa-angle-right"></i>Products</a></li>
+                  </ul>
+                  <ul class="w-6">
+                    <li><a href="#"><i class="fa-solid fa-angle-right"></i>Blog</a></li>
+                    <li><a href="contact.html"><i class="fa-solid fa-angle-right"></i>About us</a></li>
+                    <li><a href="gallery.html"><i class="fa-solid fa-angle-right"></i>Gallery</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div class="cont-us w-4">
+              <h2>CONTACT US</h2>
+              <ul>
+                <li><i class="fa-solid fa-location-dot"></i>44 Danwers, NY City, USA, 70-102</li>
+                <li><i class="fa-solid fa-phone"></i>+10800-33-800; +10500-55-900</li>
+                <li><a href="mycoffee@mycoffeeshop.us"><i class="fa-solid fa-envelope"></i>mycoffee@mycoffeeshop.us</a>
+                </li>
+                <li><a href=""><i class="fa-brands fa-skype"></i>mycoffeeshop</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </footer>

@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Play', sans-serif;
+    list-style: none;
+}
+body{
+	overflow: hidden;
+}
+.container{
+    max-width: 1320px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}   
+img{
+    max-width: 100%;
+}
+.prelative{
+    position: relative;
+}
+/* bg-img */
+
+.bg-img{
+  width: 100%;
+  background-size: cover;
+  object-fit: cover;
+  height: 100vh;
+  position: absolute;
+}
+.bg-img img{
+  width: 100%;
+  height: 100vh;
+  background-blend-mode: multiply;
+  opacity: 0.2;
+  z-index: -1;
+}
+
+/* bg-img */
+.main-partical{
+    /* background-image: url('low-poly.jpg'); */
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, rgba(0,242,255,0.8) 0%, rgba(113,0,184,0.8) 100%);
+    height: 100vh;
+}
+
+.logo{
+    max-width: 100%;
+    margin: auto 0;
+    text-align: center;
+}
+.logo h1{
+    text-align: center;
+}
+
+/* partical-css */
+
+#particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    z-index: 22;
+  } /* ---- stats.js ---- */
+  .count-particles {
+    background: #000022;
+    position: absolute;
+    top: 48px;
+    left: 0;
+    width: 80px;
+    color: #13e8e9;
+    font-size: 0.8em;
+    text-align: left;
+    text-indent: 4px;
+    line-height: 14px;
+    padding-bottom: 2px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+  }
+  .js-count-particles {
+    font-size: 1.1em;
+  }
+  #stats,
+  .count-particles {
+    -webkit-user-select: none;
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+  #stats {
+    border-radius: 3px 3px 0 0;
+    overflow: hidden;
+  }
+  .count-particles {
+    border-radius: 0 0 3px 3px;
+  }
+  
+
+/* partical-css */
+
+
+/* headline-css */
+
+.cd-intro {
+    width: 90%;
+    max-width: 768px;
+    text-align: center;
+  }
+  
+  .cd-intro {
+    margin: 4em auto;
+  }
+  @media only screen and (min-width: 768px) {
+    .cd-intro {
+      margin: 5em auto;
+    }
+  }
+  @media only screen and (min-width: 1170px) {
+    .cd-intro {
+      margin: 6em auto;
+    }
+  }
+  
+  .cd-headline {
+    font-size: 3rem;
+    margin-top: -100px;
+    /* line-height: 0.2; */
+  }
+  @media only screen and (min-width: 768px) {
+    .cd-headline {
+      font-size: 2rem;
+      font-weight: 300;
+    }
+  }
+  @media only screen and (min-width: 1170px) {
+    .cd-headline {
+      font-size: 3rem;
+    }
+  }
+  
+  .cd-words-wrapper {
+    display: inline-block;
+    position: relative;
+    text-align: left;
+  }
+  .cd-words-wrapper b {
+    display: inline-block;
+    position: absolute;
+    white-space: nowrap;
+    left: 0;
+    top: 0;
+  }
+  .cd-words-wrapper b.is-visible {
+    position: relative;
+  }
+  .no-js .cd-words-wrapper b {
+    opacity: 0;
+  }
+  .no-js .cd-words-wrapper b.is-visible {
+    opacity: 1;
+  }
+
+
+.cd-headline.clip span {
+    display: inline-block;
+    padding: .2em 0;
+  }
+  .cd-headline.clip .cd-words-wrapper {
+    overflow: hidden;
+    vertical-align: top;
+  }
+  .cd-headline.clip .cd-words-wrapper::after {
+    /* line */
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 2px;
+    height: 100%;
+    background-color: #aebcb9;
+  }
+  .cd-headline.clip b {
+    opacity: 0;
+  }
+  .cd-headline.clip b.is-visible {
+    opacity: 1;
+  }
+.logo h1{
+  color: white;
+}
+
+/* headline-css */
+
+
+
+
+/* theme-switcher */
+
+#red,#green,#blue{
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    margin: 5px 0;
+    margin-left:10px ;
+  }
+  #red{
+    background-color: red;
+  }
+  #green{
+    background-color: green;
+  }
+  #blue{
+    background-color: blue;
+  }
+  #setting{
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    background-color: #242424;
+    border: none;
+  }
+  #setting i{
+    animation: loop 5s linear infinite;
+  }
+  @keyframes loop{
+    0%{
+      transform:rotate(0deg);
+    }
+    100%{
+      transform: rotate(360deg);
+    }
+  }
+  .theme-switcher{
+    position: fixed;
+    right: 20px;
+    top: 120px;
+    z-index: 51;
+  }
+  .color-changer{
+    display: none;
+  }
+  .top-translate{
+    transform: translateY(800px);
+    z-index: 6;
+  }
+  body.red{
+    background-color: red;
+  }
+  body.green{
+    background-color: green;
+  }
+  body.blue{
+    background-color: blue;
+  }
+  
+  .z-index-50{
+    z-index: 50;
+  }
+
+/* theme-switcher */

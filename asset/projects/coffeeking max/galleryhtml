@@ -1,0 +1,293 @@
+<div class="header bg-dark" style="position:relative;">
+  <div class="container">
+    <div class="head-link row align-item-center justify-space-between">
+      <div class="header-image">
+        <img src="asset/images/logo_white-7.png" alt="" />
+      </div>
+      <div class="head-nav">
+        <ul class="main-menu row align-item-center">
+          <!-- <li class="m-menu"> -->
+          <!-- <a href="#" class="nav-link">Mega-menu</a> -->
+          <!-- <div class="mega-menu row"> -->
+          <!-- <ul class="mega-dropdown w-3"> -->
+          <!-- <li><a href="#">m-1</a></li> -->
+          <!-- <li><a href="#">m-1</a></li> -->
+          <!-- <li><a href="#">m-1</a></li> -->
+          <!-- </ul> -->
+          <!-- <ul class="mega-dropdown w-3"> -->
+          <!-- <li><a href="#">m-1</a></li> -->
+          <!-- <li><a href="#">m-1</a></li> -->
+          <!-- <li><a href="#">m-1</a></li> -->
+          <!-- </ul> -->
+          <!-- <ul class="mega-dropdown w-3"> -->
+          <!-- <li><a href="#">m-1</a></li> -->
+          <!-- <li><a href="#">m-1</a></li> -->
+          <!-- <li><a href="#">m-1</a></li> -->
+          <!-- </ul> -->
+          <!-- <ul class="mega-dropdown w-3 "> -->
+          <!-- <li><a href="#">m-1</a></li> -->
+          <!-- <li><a href="#">m-1</a></li> -->
+          <!-- <li><a href="#">m-1</a></li> -->
+          <!-- </ul> -->
+          <!-- </div> -->
+          <!-- </li> -->
+
+          <li class="menu">
+            <a href="index.html" class="nav-link">Home</a>
+            <ul class="dropdown">
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Coffee Market</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Light Version</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Coffee Shop Dark</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Coffee Cup Waves</a>
+              </li>
+            </ul>
+          </li>
+
+          <li class="menu">
+            <a href="#" class="nav-link">About us</a>
+            <ul class="dropdown">
+              <li class="sub-menu">
+                <a href="#" class="sub-link">About us</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Delivery</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Events</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Special Offers</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Testimonials</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Team</a>
+              </li>
+              <li class="sub-menu"><a href="#" class="sub-link">FAQ</a></li>
+            </ul>
+          </li>
+
+          <li class="menu">
+            <a href="#" class="nav-link">Products</a>
+            <ul class="dropdown">
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Shop</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Cart</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Checkout</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">My account</a>
+              </li>
+            </ul>
+          </li>
+          <li class="menu">
+            <a href="#" class="nav-link">Blog</a>
+            <ul class="dropdown">
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Blog One Column</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Blog Two Column</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Blog Three Column</a>
+              </li>
+            </ul>
+          </li>
+          <li class="menu">
+            <a href="#" class="nav-link">Gallery</a>
+            <ul class="dropdown">
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Gallery 2-columns</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Gallery 3-columns</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Gallery 4-columns</a>
+              </li>
+            </ul>
+          </li>
+          <li class="menu"><a href="contact.html" class="nav-link">Contacts</a></li>
+          <li class="menu">
+            <a href="#" class="nav-link">Pages</a>
+            <ul class="dropdown">
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Typography<i class="fa-solid fa-angle-right"></i></a>
+                <ul class="sub-dropdown">
+                  <li class="menu-items">
+                    <a href="#" class="menu-link">Headers</a>
+                  </li>
+                  <li class="menu-items">
+                    <a href="#" class="menu-link">Text</a>
+                  </li>
+                  <li class="menu-items">
+                    <a href="#" class="menu-link">Text Columns</a>
+                  </li>
+                  <li class="menu-items">
+                    <a href="#" class="menu-link">Table</a>
+                  </li>
+                  <li class="menu-items">
+                    <a href="#" class="menu-link">Separators</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Form Elements<i class="fa-solid fa-angle-right"></i></a>
+                <ul class="sub-dropdown">
+                  <li class="menu-items">
+                    <a href="#" class="menu-link">Buttons</a>
+                  </li>
+                  <li class="menu-items">
+                    <a href="#" class="menu-link">Forms</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Shortcodes<i class="fa-solid fa-angle-right"></i></a>
+                <ul class="sub-dropdown">
+                  <li class="menu-items">
+                    <a href="#" class="menu-link">Accordions</a>
+                  </li>
+                  <li class="menu-items">
+                    <a href="#" class="menu-link">Alerts</a>
+                  </li>
+                  <li class="menu-items">
+                    <a href="#" class="menu-link">Tabs</a>
+                  </li>
+                  <li class="menu-items">
+                    <a href="#" class="menu-link">Shortcodes</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Lists<i class="fa-solid fa-angle-right"></i></a>
+                <ul class="sub-dropdown">
+                  <li class="menu-items">
+                    <a href="#" class="menu-link">Icons</a>
+                  </li>
+                  <li class="menu-items">
+                    <a href="#" class="menu-link">Lists and Social Icon</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">404 Page</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Coming Soon</a>
+              </li>
+              <li class="sub-menu">
+                <a href="#" class="sub-link">Under Construction</a>
+              </li>
+            </ul>
+          </li>
+          <li class="menu">
+            <span>0</span><a href="#" class="nav-icon"><i class="fa-solid fa-cart-shopping"></i></a>
+          </li>
+          <li class="menu">
+            <a href="#" class="nav-icon"><i class="fa-solid fa-magnifying-glass"></i></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-relative">
+  <section class="main-footer ">
+    <!-- <div class="bgimg">
+    <img src="asset/images/footer_map.png" alt="" >
+  </div> -->
+    <div class="container">
+      <div class="footer row">
+        <div class=" foot-desc w-4">
+          <div class="img">
+            <img src="asset/images/logo_white-7.png" alt="">
+          </div>
+          <div class="desc">
+            <p>Pellentesque congue non augue vitae pellentesque. Morbi sollicitudin eleifend rhoncus. Mauris vel nisl
+              a
+              massa viverra sollicitudin semper a diam.</p>
+          </div>
+          <div class="btn">
+            <button>Purchase Theme</button>
+          </div>
+        </div>
+
+        <div class="explor w-4">
+          <h2>EXPLORE</h2>
+          <div class="links row">
+            <ul class="w-6">
+              <li><a href="index.html"><i class="fa-solid fa-angle-right"></i>Home</a></li>
+              <li><a href="contact.html"><i class="fa-solid fa-angle-right"></i>Contact Us</a></li>
+              <li><a href="#"><i class="fa-solid fa-angle-right"></i>Products</a></li>
+            </ul>
+            <ul class="w-6">
+              <li><a href="#"><i class="fa-solid fa-angle-right"></i>Blog</a></li>
+              <li><a href="contact.html"><i class="fa-solid fa-angle-right"></i>About us</a></li>
+              <li><a href="#"><i class="fa-solid fa-angle-right"></i>Gallery</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="cont-us w-4">
+          <h2>CONTACT US</h2>
+          <ul>
+            <li><i class="fa-solid fa-location-dot"></i>44 Danwers, NY City, USA, 70-102</li>
+            <li><i class="fa-solid fa-phone"></i>+10800-33-800; +10500-55-900</li>
+            <li><a href="mycoffee@mycoffeeshop.us"><i class="fa-solid fa-envelope"></i>mycoffee@mycoffeeshop.us</a>
+            </li>
+            <li><a href=""><i class="fa-brands fa-skype"></i>mycoffeeshop</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="main-subs p-absolute">
+    <div class="container  row align-item-center">
+      <div class="w-4">
+        <span class="title">Subscribe</span>
+        <h6 class="sub-title">Weekly newsletter</h6>
+      </div>
+      <div class="w-4">
+        <ul class="row">
+          <li><input type="text" name="" id="" placeholder="Your email address"><button>Subscribe</button></li>
+          <!-- <li><button>Su5scribe</button></li> -->
+        </ul>
+      </div>
+      <div class="w-4">
+        <ul class="row justify-center">
+          <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+          <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+          <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+          <li><a href="#"><i class="fa-brands fa-google-plus-g"></i></a></li>
+        </ul>
+      </div>
+
+    </div>
+  </section>
